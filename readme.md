@@ -1,10 +1,10 @@
 # Crypto Simulation
 
-This code folder contains a crypto simulation program that allows users to simulate various cryptocurrency trading strategies.
+This code folder contains a crypto simulation program that allows users to simulate various cryptography algorithms.
 
 ## Features
 
-- Simulate trading strategies using historical cryptocurrency data.
+- Simulate trading strategies using historical cryptography data.
 - Analyze performance metrics such as profit, loss, and risk.
 - Visualize simulation results with interactive charts.
 - Customize simulation parameters and trading rules.
